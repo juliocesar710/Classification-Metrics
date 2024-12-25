@@ -24,5 +24,4 @@ __pycache__/
 # Ignorar arquivos de saída de gráficos
 *.png
 *.jpg
-*.jpeg
 *.svg
