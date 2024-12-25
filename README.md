@@ -72,15 +72,15 @@ pip install -r requirements.txt
 ## 🛠 Como Acessar os Gráficos, Funções e o Notebook 📝
 ### 📊 Acessando os Gráficos
 
-Os gráficos gerados podem ser acessados na pasta `outputs/figures/`. Para visualizar os gráficos interativos, basta abrir os arquivos gerados com extensão `.jpeg`.
+Os gráficos gerados podem ser acessados na pasta `outputs/figures/`. Para visualizar os gráficos interativos, basta abrir os arquivos gerados com extensão `.jpeg`. Ou clicando [Aqui](./outputs/figures)
 
 ### 🔧 Funções do Projeto
 
-As funções de métricas e visualizações estão localizadas no arquivo `src/metrics.py` e `src/visualizations.py`. Para usá-las, basta importar os módulos necessários e chamar as funções diretamente em seu código.
+As funções de métricas e visualizações estão localizadas no arquivo `src/metrics.py` e `src/visualizations.py`. Para usá-las, basta importar os módulos necessários e chamar as funções diretamente em seu código. Ou clicando [Aqui](./src/metrics) e [Aqui](./src/visualizations)
 
 ### 📒 Acessando o Notebook
 
-Você pode explorar o notebook interativo em `notebooks/`. Clique no arquivo desejado para abrir e acompanhar a execução das células.
+Você pode explorar o notebook interativo em `notebooks/`. Clique no arquivo desejado para abrir e acompanhar a execução das células. Ou clicando [Aqui](./notebooks)
 
 ## 🏁 Contribuições
 
