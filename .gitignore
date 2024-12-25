@@ -1,0 +1,28 @@
+# Ignorar arquivos de dados processados
+/data/processed/*
+
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+*.bak
+
+# Ignorar arquivos de ambiente virtual
+venv/
+__pycache__/
+
+# Ignorar notebooks do Jupyter que não precisam ser versionados
+*.ipynb_checkpoints
+
+# Ignorar arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Ignorar arquivos gerados automaticamente pelo Colab
+*.tgz
+*.h5
+
+# Ignorar arquivos de saída de gráficos
+*.png
+*.jpg
+*.jpeg
+*.svg
