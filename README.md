@@ -76,7 +76,7 @@ Os gráficos gerados podem ser acessados na pasta `outputs/figures/`. Para visua
 
 ### 🔧 Funções do Projeto
 
-As funções de métricas e visualizações estão localizadas no arquivo `src/metrics.py` e `src/visualizations.py`. Para usá-las, basta importar os módulos necessários e chamar as funções diretamente em seu código. Ou clicando [Aqui](./src/metrics) e [Aqui](./src/visualizations)
+As funções de métricas e visualizações estão localizadas no arquivo `src/metrics.py` e `src/visualizations.py`. Para usá-las, basta importar os módulos necessários e chamar as funções diretamente em seu código. Ou clicando [Aqui](./src/metrics.py) e [Aqui](./src/visualizations.py)
 
 ### 📒 Acessando o Notebook
 
