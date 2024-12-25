@@ -1,14 +1,14 @@
 # Projeto de Cálculo de Métricas de Avaliação de Classificação
 
-## Descrição
+## 📚 Descrição
 
 Este projeto tem como objetivo calcular e visualizar as principais métricas de avaliação de modelos de classificação, como Acurácia, Sensibilidade (Recall), Precisão, Especificidade e F-Score. As métricas são calculadas a partir de uma matriz de confusão, utilizando valores de Verdadeiros Positivos (VP), Falsos Negativos (FN), Falsos Positivos (FP) e Verdadeiros Negativos (VN).
 
-## Justificativa
+## 📝 Justificativa
 
 A avaliação de modelos de classificação é uma etapa crucial em projetos de aprendizado de máquina. Compreender como o modelo se comporta nas diferentes classes, incluindo os falsos positivos e falsos negativos, é fundamental para sua eficácia. Este projeto visa fornecer as ferramentas para realizar essas avaliações de maneira eficiente e visualmente clara.
 
-## Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 - Python 3.x
 - Bibliotecas:
@@ -19,7 +19,7 @@ A avaliação de modelos de classificação é uma etapa crucial em projetos de 
 - Ambiente de Desenvolvimento:
   - Google Colab
 
-## Estrutura de Pastas
+## 📁 Estrutura de Pastas
 
 ```
 Classification-Metrics/
@@ -45,13 +45,13 @@ Classification-Metrics/
 
 ```
 
-## Funcionalidades
+## 🔎 Funcionalidades
 
 - *Cálculo das Métricas:* Implementa funções para calcular Acurácia, Sensibilidade, Precisão, Especificidade e F-Score.
 - *Visualizações:* Gráficos das métricas e matriz de confusão em formato de heatmap.
 - *Interatividade:* Opção de salvar gráficos e logs, além de permitir ajustes nas métricas e visualizações.
 
-## Instalação
+## 🖥️ Instalação
 
 1. Clone o repositório:
 ```
@@ -63,13 +63,26 @@ cd projeto-metricas
 pip install -r requirements.txt
 ```
 
-## Como Usar
+## 🚀 Como Usar
 
 1. Abra o notebook `notebooks/metricas.ipynb` no Google Colab.
 2. Execute as células para calcular e visualizar as métricas de avaliação.
 3. Utilize os widgets interativos para salvar gráficos e logs conforme necessário.
 
-## Contribuições
+## 🛠 Como Acessar os Gráficos, Funções e o Notebook 📝
+### 📊 Acessando os Gráficos
+
+Os gráficos gerados podem ser acessados na pasta `outputs/figures/`. Para visualizar os gráficos interativos, basta abrir os arquivos gerados com extensão `.jpeg`.
+
+### 🔧 Funções do Projeto
+
+As funções de métricas e visualizações estão localizadas no arquivo `src/metrics.py` e `src/visualizations.py`. Para usá-las, basta importar os módulos necessários e chamar as funções diretamente em seu código.
+
+### 📒 Acessando o Notebook
+
+Você pode explorar o notebook interativo em `notebooks/`. Clique no arquivo desejado para abrir e acompanhar a execução das células.
+
+## 🏁 Contribuições
 
 Sinta-se à vontade para contribuir com o projeto. Envie um pull request com melhorias ou novas funcionalidades.
 
